@@ -16,10 +16,8 @@
 5. What is the average length of employment for employees who have been terminated?
 6. How does the gender distribution vary across departments and job titles?
 7. What is the distribution of job titles across the company?
-8. Which department has the highest turnover rate?
-9. What is the distribution of employees across locations by state?
-10. How has the company's employee count changed over time based on hire and term dates?
-11. What is the tenure distribution for each department?
+8. What is the distribution of employees across locations by state?
+9. What is the tenure distribution for each department?
 
 ## Summary of Findings
 1. There are more male employees
@@ -29,12 +27,10 @@
 5. A large number of employees work at the headquarters versus remotely.
 6. The average length of employment for terminated employees is around 7 years.
 7. The gender distribution across departments is fairly balanced but there are generally more male than female employees.
-8. The Marketing department has the highest turnover rate followed by Training. The least turn over rate are in the Research and development, Support and Legal departments.
-9. A large number of employees come from the state of Ohio.
-10. The net change in employees has increased over the years.
-11. The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
+8. A large number of employees come from the state of Ohio.
+9. The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
 ## Limitations
-1. Some records had negative ages and these were excluded during querying(967 records). Ages used were 18 years and above.
-2. Some termdates were far into the future and were not included in the analysis(1599 records). The only term dates used were those less than or equal to the current date.
+1. Some records had negative ages and these were excluded during querying. Ages used were 18 years and above.
+2. Some termdates were far into the future and were not included in the analysis. The only term dates used were those less than or equal to the current date.
 
