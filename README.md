@@ -1,4 +1,6 @@
 # Human-Resources-MySQL-Power-BI-
+![HR screenshot (2)](https://github.com/Marychinweogembah/Human-Resources-MySQL-Power-BI-/assets/159486483/dccafdc1-6bc1-4d18-bd63-b6eec1601aba)
+
 
 ## Data Used 
 ### Data - HR Data with over 22000 rows from the year 2000 to 2020.
